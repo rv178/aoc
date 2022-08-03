@@ -1,4 +1,4 @@
-# First day
+# Second day
 
 -   part 1 is `1.rs`
 -   part 2 is `2.rs`
